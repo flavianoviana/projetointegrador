@@ -5,3 +5,5 @@ editando o arquivo direto no repositório
 fazendo mais uma edição no repositório
 
 testando sem atualizar
+
+editando via visual studio
